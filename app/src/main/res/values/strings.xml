@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BaiTap18</string>
+    <string name="title_main">HỒ SƠ SINH VIÊN</string>
+    <string name="label_name">Họ và tên: %s</string>
+    <string name="label_msv">Mã sinh viên: %s</string>
+    <string name="label_gpa">Điểm GPA: %.2f</string>
+    <string name="btn_edit_profile">Chỉnh sửa hồ sơ</string>
+    <string name="title_edit_profile">Cập nhật thông tin</string>
+    <string name="hint_name">Nhập họ và tên</string>
+    <string name="hint_msv">Nhập mã sinh viên</string>
+    <string name="hint_gpa">Nhập điểm GPA (0.0 - 4.0)</string>
+    <string name="btn_save">Lưu thay đổi</string>
+    <string name="msg_invalid_input">Vui lòng nhập đầy đủ thông tin và GPA từ 0.0 đến 4.0!</string>
+    <string name="msg_saved_success">Đã cập nhật thông tin thành công!</string>
+</resources>
